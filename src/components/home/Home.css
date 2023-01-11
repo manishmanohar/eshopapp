@@ -1,0 +1,25 @@
+.cards--list{
+    display: flex;
+    flex-wrap: wrap;
+    gap: 20px;
+    overflow-x: auto;
+    
+}
+
+.home{
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 10px;
+}
+
+.togglebuttongroup{
+    margin-top: 70px;
+    margin-bottom: 20px;
+    width: 100%;
+    text-align: center
+
+}
+
+.sortby--filter{
+    width: 100px;
+}

@@ -1,0 +1,40 @@
+.navbar {
+    display: flex;
+    flex-direction: row;
+    color: inherit;
+    font-family: monospace;
+    font-weight: 700;
+
+}
+
+.nav--logo {
+    display: flex;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+.nav--elements {
+    display: flex;
+    margin-right: auto;
+}
+
+.nav--title {
+    margin-top: 20px;
+    margin-left: 5px;
+}
+
+.nav--search {
+    margin-right: auto;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    display: flex;
+
+}
+
+.nav--items {
+    margin-top: 25px;
+    padding-left: 20px;
+    padding-right: 10px;
+    color: white;
+
+}

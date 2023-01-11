@@ -1,0 +1,44 @@
+[
+    {
+        "id":1,
+        "image":"shoes.jpeg",
+        "title":"Nike P41",
+        "price":"$14.50",
+        "description":"Normal shoes only gaurds from rough surfaces."
+    },
+    {
+        "id":2,
+        "image":"runningshoes.jpeg",
+        "title":"Nike Viper",
+        "price":"$199",
+        "description":"Running shoes makes you run faster"
+    },
+    {
+        "id":3,
+        "image":"levis.jpeg",
+        "title":"Levis Jeans",
+        "price":"$200",
+        "description":"This is an exlusive jeans"
+    },
+    {
+        "id":4,
+        "image":"levis.jpeg",
+        "title":"Levis Jeans",
+        "price":"$200",
+        "description":"This is an exlusive jeans"
+    },
+    {
+        "id":5,
+        "image":"levis.jpeg",
+        "title":"Levis Jeans",
+        "price":"$200",
+        "description":"This is an exlusive jeans"
+    },
+    {
+        "id": 6,
+        "image": "levis.jpeg",
+        "title": "Levis Jeans",
+        "price": "$200",
+        "description": "This is an exclusive jeans"
+    }
+]

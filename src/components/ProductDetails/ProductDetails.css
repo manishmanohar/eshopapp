@@ -1,0 +1,28 @@
+.stepper--steps{
+    margin-top: 160px;
+    width: 80%;
+    margin-left: 80px
+    ;}
+
+.buyProduct--details{
+    display: flex;
+
+    }
+.productdetails--selectproduct{
+    display: flex;
+    margin-left: 25rem;
+    margin-top: 2rem;
+    
+}
+
+.productdetails--image{
+    width: 20%;
+    height: 20%;
+  
+}
+
+.productdetails--items{
+    font-size: medium;
+    padding-left: 60px;
+    margin-top: -20px;
+}

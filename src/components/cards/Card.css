@@ -1,0 +1,29 @@
+
+.card--buyButton{
+    background: blue;
+    padding: 5px 15px;
+    color: white;
+    border-radius: 5px;
+    margin-right: 90px;
+  
+}
+
+.card--title{
+    display: flex;
+    justify-content: space-between; 
+}
+
+.card--options{
+    display: flex;
+    margin-top: 290px;
+    padding: 10px;
+    position: absolute;
+    /* margin-right: 20px; */
+    
+}
+
+.card--editButton{
+    padding-right: 10px;
+    /* margin-right: auto; */
+}
+

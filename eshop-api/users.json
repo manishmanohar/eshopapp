@@ -1,0 +1,18 @@
+[
+    {
+        "firstName": "admin",
+        "lastName": "1",
+        "contactNumber": "9182746268",
+        "email": "admin@gmail.com",
+        "password": "password",
+        "isAdmin": true
+    },
+    {
+        "email": "manish.manohar@gmail.com",
+        "password": "password",
+        "firstName": "Manish",
+        "lastName": "Manohar",
+        "contactNumber": "8527053131",
+        "isAdmin": false
+    }
+]
